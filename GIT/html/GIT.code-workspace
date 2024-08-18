@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../html assignmt"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html assignmt"
+	}
+}
